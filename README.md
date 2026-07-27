@@ -115,18 +115,6 @@ ask-me-about: [ k8s-at-scale, bare-metal-k8s, gitops, observability, zero-trust 
 | 🟦 **[When the Gap Is Huge, Leap](https://chrisjaimon.com/writeups/blue-green-kubernetes-upgrade)** | A blue-green Kubernetes upgrade — six versions in one jump. |
 | 🧠 **[Multi-Model LLM Inference on EKS](https://chrisjaimon.com/projects/llm-inference-on-eks)** | Serving vLLM across three generations of silicon: Trainium, Inferentia, GPU. |
 
-### 📊 Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=chrisjaimon2012&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=chrisjaimon2012&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://streak-stats.demolab.com/?user=chrisjaimon2012&hide_border=true" alt="GitHub streak" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
