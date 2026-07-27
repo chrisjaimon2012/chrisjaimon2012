@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://chrisjaimon.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=760&height=60&lines=Senior+Platform+%26+Infrastructure+Engineer;CNCF+Golden+Kubestronaut+%F0%9F%8E%96%EF%B8%8F;Kubernetes+%C2%B7+AI+Infrastructure+%C2%B7+Cloud+Security" alt="Senior Platform &amp; Infrastructure Engineer · CNCF Golden Kubestronaut · Kubernetes, AI Infrastructure, Cloud Security" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=820&height=70&lines=Senior+Platform+%26+Infrastructure+Engineer;CNCF+Golden+Kubestronaut+%F0%9F%8E%96%EF%B8%8F;Kubernetes+%C2%B7+AI+Infrastructure+%C2%B7+Cloud+Security" alt="Senior Platform &amp; Infrastructure Engineer · CNCF Golden Kubestronaut · Kubernetes, AI Infrastructure, Cloud Security" />
 </a>
 
 <h1>Chris Jaimon</h1>
@@ -114,6 +114,20 @@ ask-me-about: [ k8s-at-scale, bare-metal-k8s, gitops, observability, zero-trust 
 | 📄 **[The Death of the YAML Engineer](https://chrisjaimon.com/writeups/death-of-the-yaml-engineer)** | Building an internal developer platform that hides Kubernetes. |
 | 🟦 **[When the Gap Is Huge, Leap](https://chrisjaimon.com/writeups/blue-green-kubernetes-upgrade)** | A blue-green Kubernetes upgrade — six versions in one jump. |
 | 🧠 **[Multi-Model LLM Inference on EKS](https://chrisjaimon.com/projects/llm-inference-on-eks)** | Serving vLLM across three generations of silicon: Trainium, Inferentia, GPU. |
+
+### 🏆 GitHub
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=chrisjaimon2012&column=7&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6" alt="GitHub trophies" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-compact&bg_color=0D1117&color=c9d1d9&line=1f6feb&point=1f6feb&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-light&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-compact&area=true&hide_border=true" alt="Contribution activity graph" />
+</picture>
+
+</div>
 
 ---
 
