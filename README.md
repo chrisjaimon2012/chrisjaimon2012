@@ -9,7 +9,7 @@
 <p><i>I build the platforms that other engineers build on.</i></p>
 
 <a href="https://chrisjaimon.com"><img src="https://img.shields.io/badge/Portfolio-chrisjaimon.com-1F4E79?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
-<a href="https://chrisjaimon.com/writeups"><img src="https://img.shields.io/badge/Writeups-31_deep_dives-0D1117?style=for-the-badge&logo=readme&logoColor=white" alt="Writeups"/></a>
+<a href="https://chrisjaimon.com/writeups"><img src="https://img.shields.io/badge/Writeups-27_deep_dives-0D1117?style=for-the-badge&logo=readme&logoColor=white" alt="Writeups"/></a>
 <a href="https://www.credly.com/users/chris-jaimon"><img src="https://img.shields.io/badge/Credly-31_verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 <a href="https://x.com/chrisjaimon"><img src="https://img.shields.io/badge/@chrisjaimon-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
