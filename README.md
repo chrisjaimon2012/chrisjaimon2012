@@ -121,12 +121,6 @@ ask-me-about: [ k8s-at-scale, bare-metal-k8s, gitops, observability, zero-trust 
 
 <img src="https://github-trophies.vercel.app/?username=chrisjaimon2012&column=7&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-compact&bg_color=0D1117&color=c9d1d9&line=1f6feb&point=1f6feb&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-light&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimon2012&theme=github-compact&area=true&hide_border=true" alt="Contribution activity graph" />
-</picture>
-
 </div>
 
 ---
